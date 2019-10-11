@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Tesonet20191011KasparasMociunas/1.0.0": {
+        "runtime": {
+          "Tesonet20191011KasparasMociunas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tesonet20191011KasparasMociunas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

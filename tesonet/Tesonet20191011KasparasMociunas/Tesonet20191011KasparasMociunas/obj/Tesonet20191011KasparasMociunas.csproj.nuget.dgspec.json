@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kasparasmociunas/Desktop/tesonet/Tesonet20191011KasparasMociunas/Tesonet20191011KasparasMociunas/Tesonet20191011KasparasMociunas.csproj": {}
+  },
+  "projects": {
+    "/Users/kasparasmociunas/Desktop/tesonet/Tesonet20191011KasparasMociunas/Tesonet20191011KasparasMociunas/Tesonet20191011KasparasMociunas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kasparasmociunas/Desktop/tesonet/Tesonet20191011KasparasMociunas/Tesonet20191011KasparasMociunas/Tesonet20191011KasparasMociunas.csproj",
+        "projectName": "Tesonet20191011KasparasMociunas",
+        "projectPath": "/Users/kasparasmociunas/Desktop/tesonet/Tesonet20191011KasparasMociunas/Tesonet20191011KasparasMociunas/Tesonet20191011KasparasMociunas.csproj",
+        "packagesPath": "/Users/kasparasmociunas/.nuget/packages/",
+        "outputPath": "/Users/kasparasmociunas/Desktop/tesonet/Tesonet20191011KasparasMociunas/Tesonet20191011KasparasMociunas/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kasparasmociunas/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
